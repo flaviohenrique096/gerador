@@ -1,7 +1,7 @@
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <climits>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <limits.h>
 #include "linkedlist.h"
 #include "hashtable.h"
 
