@@ -1,7 +1,6 @@
-#include <iostream>
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include "newtypes.h"
 #include "linkedlist.h"
 
